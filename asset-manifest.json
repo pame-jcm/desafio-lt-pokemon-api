@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/desafio-lt-pokemon-api/static/css/main.90a1b6af.css",
+    "main.js": "/desafio-lt-pokemon-api/static/js/main.578846cb.js",
+    "static/media/pokemon_prin.jpg": "/desafio-lt-pokemon-api/static/media/pokemon_prin.81f7fd83f16e20790375.jpg",
+    "index.html": "/desafio-lt-pokemon-api/index.html",
+    "main.90a1b6af.css.map": "/desafio-lt-pokemon-api/static/css/main.90a1b6af.css.map",
+    "main.578846cb.js.map": "/desafio-lt-pokemon-api/static/js/main.578846cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a1b6af.css",
+    "static/js/main.578846cb.js"
+  ]
+}
